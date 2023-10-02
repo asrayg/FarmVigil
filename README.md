@@ -1,3 +1,5 @@
+#FarmVigil: A Computer Vision Solution for Disease Detection
+
 FarmVigil is a cutting-edge computer vision model designed to identify diseases in large cattle herds, all powered by Roboflow and an SMS API.
 
 Key Features
